@@ -19,20 +19,20 @@
 .footer__copyright {
   text-align: right;
 }
-.header__title {
-  font-size: 3em;
-}
 .header_theme_dark {
   color: #fff;
+}
+.header__title {
+  font-size: 3em;
 }
 .main__text {
   color: tomato;
 }
 
-.page__header {
-  color: tomato;
-}
 .page_theme_dark {
   background-color: #000;
   color: #f5f5f5;
+}
+.page__header {
+  color: tomato;
 }
